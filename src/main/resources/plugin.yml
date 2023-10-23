@@ -1,0 +1,4 @@
+name: SpongeDryer
+version: '${project.version}'
+main: net.azisaba.spongedryer.SpongeDryer
+api-version: '1.15'
